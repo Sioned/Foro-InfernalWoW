@@ -1,4 +1,4 @@
 Foro-InfernalWoW
 ================
 
-Foro
+Foro para la comunidad de InfernalWoW
